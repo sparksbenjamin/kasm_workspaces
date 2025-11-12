@@ -27,6 +27,14 @@
       ]
     },
     {
+      "version": "1.17.x",
+      "image": "kasmweb/obsidian:develop",
+      "uncompressed_size_mb": 3421,
+      "available_tags": [
+        "develop"
+      ]
+    },
+    {
       "version": "1.18.0",
       "image": "kasmweb/obsidian:1.18.0-rolling-daily",
       "uncompressed_size_mb": 3421,
