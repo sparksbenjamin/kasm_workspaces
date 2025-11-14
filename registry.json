@@ -1,14 +1,17 @@
 {
   "version": "1.0",
-  "description": "Custom Kasm Registry",
+  "description": "Custom Kasm Registry (GitHub)",
   "workspaces": [
     {
       "name": "Obsidian",
-      "friendly_name": "Obsidian",
       "id": "obsidian",
       "description": "Obsidian Markdown Workspace",
-      "json_url": "https://raw.githubusercontent.com/sparksbenjamin/kasm_workspaces/main/workspaces/obsidian.json",
-      "image_src": "https://raw.githubusercontent.com/sparksbenjamin/kasm_workspaces/main/icons/obsidian.png"
+      "image": "ghcr.io/YOUR_GITHUB_USERNAME/obsidian:1.0",
+      "category": "Apps",
+      "cores": 2,
+      "memory": 2048,
+      "gpu": false,
+      "persistent_profile": false
     }
   ]
 }
