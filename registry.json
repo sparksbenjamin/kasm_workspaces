@@ -6,7 +6,7 @@
       "name": "Obsidian",
       "id": "obsidian",
       "description": "Obsidian Markdown Workspace",
-      "image": "ghcr.io/YOUR_GITHUB_USERNAME/obsidian:1.0",
+      "image": "kasmweb/obsidian:develop",
       "category": "Apps",
       "cores": 2,
       "memory": 2048,
